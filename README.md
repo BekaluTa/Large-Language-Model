@@ -6,3 +6,9 @@ Large Language Models coupled with multiple AI capabilities are able to generate
 Prompt engineer Large Language Models for news scoring and Named Entity Extraction
 # Data
 The data used for this project can be found News scoring and named_entity
+# Project Structure
+-- DVC
+--API
+--Scripts
+--Data
+--Notebook
